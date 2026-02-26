@@ -6,9 +6,9 @@ An end-to-end ETL pipeline in Python that fetches live global flight data from t
 
 ## Live Demo
 
-![Flight Map](outputs/plot1_flight_map.png)
+![Flight Map](images/plot1_flight_map.png)
 
-![Top Countries](outputs/plot2_top_countries.png)
+![Top Countries](images/plot2_top_countries.png)
 
 ---
 
